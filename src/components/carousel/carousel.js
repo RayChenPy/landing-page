@@ -27,7 +27,7 @@ export default function CarouselImg(){
             <div className={classes.h1}>
               <h1 className={classes.name}>I'm Ray</h1>
               <a
-                href='https://drive.google.com/file/d/1_qnWUY8lxysC0kXUv_NJywSjZmvpgXbc/view?usp=sharing'
+                href='https://drive.google.com/file/d/1t4WKh9_BDbuF9NeCHuUQyCjzdJRCLn9f/view?usp=sharing'
                 rel='opener noreferrer'
                 target='_blank'
               >
