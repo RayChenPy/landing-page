@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/landing-page/static/css/main.91de8d76.css",
-    "main.js": "/landing-page/static/js/main.48923626.js",
-    "static/js/787.128fc6e9.chunk.js": "/landing-page/static/js/787.128fc6e9.chunk.js",
-    "static/media/iOS.png": "/landing-page/static/media/iOS.d6139706f5d23831db5f.png",
-    "static/media/hello.jpg": "/landing-page/static/media/hello.14b6e8ca1de46d848ff5.jpg",
-    "static/media/event_search.png": "/landing-page/static/media/event_search.e2b9d1a83b2093385884.png",
-    "static/media/AI.png": "/landing-page/static/media/AI.ea6c97d5ca7689cd1ac1.png",
-    "static/media/ToDo.jpg": "/landing-page/static/media/ToDo.79d9a1c2b9cc40aa736c.jpg",
-    "static/media/mineSweeper.png": "/landing-page/static/media/mineSweeper.0a954b6b30f690c4603b.png",
-    "static/media/Kobe.jpg": "/landing-page/static/media/Kobe.bf87c99e0003cc7621cb.jpg",
-    "static/media/schedule.png": "/landing-page/static/media/schedule.c9d5c939d5a750074217.png",
-    "index.html": "/landing-page/index.html",
-    "main.91de8d76.css.map": "/landing-page/static/css/main.91de8d76.css.map",
-    "main.48923626.js.map": "/landing-page/static/js/main.48923626.js.map",
-    "787.128fc6e9.chunk.js.map": "/landing-page/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/myportfolio/static/css/main.91de8d76.css",
+    "main.js": "/myportfolio/static/js/main.b0329248.js",
+    "static/js/787.128fc6e9.chunk.js": "/myportfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/iOS.png": "/myportfolio/static/media/iOS.d6139706f5d23831db5f.png",
+    "static/media/hello.jpg": "/myportfolio/static/media/hello.14b6e8ca1de46d848ff5.jpg",
+    "static/media/event_search.png": "/myportfolio/static/media/event_search.e2b9d1a83b2093385884.png",
+    "static/media/AI.png": "/myportfolio/static/media/AI.ea6c97d5ca7689cd1ac1.png",
+    "static/media/ToDo.jpg": "/myportfolio/static/media/ToDo.79d9a1c2b9cc40aa736c.jpg",
+    "static/media/mineSweeper.png": "/myportfolio/static/media/mineSweeper.0a954b6b30f690c4603b.png",
+    "static/media/Kobe.jpg": "/myportfolio/static/media/Kobe.bf87c99e0003cc7621cb.jpg",
+    "static/media/schedule.png": "/myportfolio/static/media/schedule.c9d5c939d5a750074217.png",
+    "index.html": "/myportfolio/index.html",
+    "main.91de8d76.css.map": "/myportfolio/static/css/main.91de8d76.css.map",
+    "main.b0329248.js.map": "/myportfolio/static/js/main.b0329248.js.map",
+    "787.128fc6e9.chunk.js.map": "/myportfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91de8d76.css",
-    "static/js/main.48923626.js"
+    "static/js/main.b0329248.js"
   ]
 }
